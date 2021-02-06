@@ -29,3 +29,8 @@ I did this assignment easily.
 ---
 
 This week, I spent time getting my partner and brainstorming. We are makeing a obstacle avoiiding car that speeds up when somethings behind it and can release somthing via trap door.
+
+
+
+
+We have got lots of cad design done. Things like angle iron to hold the cab together and the walls of our vehicle.
